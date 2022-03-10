@@ -6,3 +6,11 @@ D:\frontend\week4\MyCsApp\obj\Debug\MyCsApp.csproj.SuggestedBindingRedirects.cac
 D:\frontend\week4\MyCsApp\obj\Debug\MyCsApp.csproj.CoreCompileInputs.cache
 D:\frontend\week4\MyCsApp\obj\Debug\MyCsApp.exe
 D:\frontend\week4\MyCsApp\obj\Debug\MyCsApp.pdb
+D:\frontend\week4\C-Example\MyCsApp\bin\Debug\MyCsApp.exe.config
+D:\frontend\week4\C-Example\MyCsApp\bin\Debug\MyCsApp.exe
+D:\frontend\week4\C-Example\MyCsApp\bin\Debug\MyCsApp.pdb
+D:\frontend\week4\C-Example\MyCsApp\obj\Debug\MyCsApp.csproj.AssemblyReference.cache
+D:\frontend\week4\C-Example\MyCsApp\obj\Debug\MyCsApp.csproj.SuggestedBindingRedirects.cache
+D:\frontend\week4\C-Example\MyCsApp\obj\Debug\MyCsApp.csproj.CoreCompileInputs.cache
+D:\frontend\week4\C-Example\MyCsApp\obj\Debug\MyCsApp.exe
+D:\frontend\week4\C-Example\MyCsApp\obj\Debug\MyCsApp.pdb
